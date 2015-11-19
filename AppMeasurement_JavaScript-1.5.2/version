@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+1.5.1
+=======
+1.5.2
+>>>>>>> 1c91dea... AN-114914 - Fixed detection of IE11 for URL truncation to 2047
